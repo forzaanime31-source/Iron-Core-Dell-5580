@@ -20,6 +20,8 @@ Questo progetto dimostra come resuscitare un Dell Latitude 5580 eliminando Windo
 - **Hardening:** DNS over HTTPS & uBlock Origin
 - **Note:** Sistema piallato e ottimizzato manualmente.
 
+- Link della Iso - https://drive.google.com/file/d/1Xgz96kD-DErs9PsBYuXW238dkKSW9xBO/view?usp=drive_link
+
 - <img width="4080" height="3060" alt="20260426_205707" src="https://github.com/user-attachments/assets/0e263c5f-035c-4ea4-8ce7-642d12366007" />
 <img width="4080" height="3060" alt="20260426_201614" src="https://github.com/user-attachments/assets/7ba66287-4463-4286-85e1-fc91ce9c695a" />
 <img width="4080" height="3060" alt="20260426_201531" src="https://github.com/user-attachments/assets/6a87567f-9dd4-478d-878e-1fb58ce70887" />
