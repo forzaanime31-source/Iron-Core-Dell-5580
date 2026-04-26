@@ -16,6 +16,6 @@ Questo progetto dimostra come resuscitare un Dell Latitude 5580 eliminando Windo
 (Trascina qui il video del boot)
 
 ## 🛠️ Configurazione
-- **OS:** Debian 12 (Puro)
+- **OS:** Debian 13.4.0 (Puro)
 - **Hardening:** DNS over HTTPS & uBlock Origin
 - **Note:** Sistema piallato e ottimizzato manualmente.
